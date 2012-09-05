@@ -1,0 +1,44 @@
+.typography * {	color:#111406; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif ; }
+
+/* LIST STYLES 
+-------------------------------------------- */
+.typography ul, 
+.typography ol {
+	margin: 0 0 18px 24px;
+	color: #666;
+	float:left;		
+}
+	.typography li {
+		margin: 5px 10px;
+		font-size: 13px;
+		list-style: initial;
+	}
+		.typography li li {
+			font-size: 12px;
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+.typography h2.hight{
+	background:url(../images/higlight_h2.gif) no-repeat 0 0; border-bottom:#EEF6CD 3px solid;
+	font:bold 26px/38px Arial, Helvetica, sans-serif; float:left; width:633px; padding:0 0 0 46px;
+	height:40px; margin-bottom:15px
+	}
+.typography h2{
+	font:bold Arial, Helvetica, sans-serif; padding:20px 0 10px 0; font-size:25px;
+	}
+.typography h3{
+	font-size:18px; line-height:23px;
+	float:initial !important; font-weight:normal; padding:15px 0 11px 0;
+	}
+.typography p{
+	padding:0 0 23px 0; font-size:13px; line-height:19px;
+	}
+.typography p strong{
+	color:#0B534E; background-color:#D6D7A0;
+	}
